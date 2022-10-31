@@ -1,0 +1,64 @@
+* {
+	font-family: Lato;
+}
+
+body{
+	background: url(fundo5.png) center fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+
+.question-container{
+	/**background-color: rgb(192, 19, 48);*/
+	width: 100%;
+    display: inline-block;
+}
+
+.upper-container {
+	margin-top: 25vh;
+}
+
+.main-container {
+	justify-content: center;
+	text-align: center;
+}
+
+.answer-container {
+    text-align: center;
+    list-style: inside;
+	margin-right: 40px;
+  }
+
+.hidden {
+	visibility: hidden;
+}
+
+li {
+	cursor: pointer;
+	margin: 10px 0;
+}
+
+
+ol li {
+
+    background-image: url('milhas.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-left: 15px;
+}
+
+ol {
+    margin: 0 0 30px 20px;
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    column-gap: 30px;
+    -webkit-column-gap: 30px;
+    -moz-column-gap: 30px;
+	list-style-position: inside;
+    color: white;
+}
+
+
+  
