@@ -12,6 +12,58 @@
 		            ],
 		            "correct" : 0
 		        },
+		 {
+		    "questions" : [
+		        {
+		            "question" : "In the U.S., if it's not Daylight Saving Time, it's what?",
+		            "content" : [
+		                "Borrowed time",
+		                "Overtime",
+		                "Standard time",
+		                "Party time"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Which part of the body are you most likely to \"stub\"?",
+		            "content" : [
+		                "Toe",
+		                "Knee",
+		                "Elbow",
+		                "Brain"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Which country is largest by area?",
+		            "content" : [
+		                "UK",
+		                "USA",
+		                "Russia",
+		                "China"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "What does the \"F\" stand for in FBI?",
+		            "content" : [
+		                "Foreign",
+		                "Federal",
+		                "Flappy",
+		                "Face"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "The US declared war on which country after the bombing of Pearl Harbor?",
+		            "content" : [
+		                "Japan",
+		                "Russia",
+		                "Germany",
+		                "China"
+		            ],
+		            "correct" : 0
+		        },
 		        {
 		            "question" : "Oque é empreendedorismo?",
 		            "content" : [
