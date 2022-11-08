@@ -1,0 +1,90 @@
+* {
+	font-family: Lato;
+}
+
+body{
+	background: url(fundolas.webp) center fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+
+button {
+    background-image: linear-gradient(135deg,#90e0ef,#90e0ef, #ade8f4, #caf0f8);
+    border: none;
+    width: 140px;
+    color: black;
+    padding: 13px 28px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 15px;
+    margin-bottom:3vh;
+    border-color: black;
+    border-style: solid;
+}
+
+.question-container{
+	/**background-color: rgb(192, 19, 48);*/
+    
+    background-image: linear-gradient(135deg,#03045e,#023e8a, #0077b6, #0096c7);
+    border-radius: 15px;
+    padding: 15px;
+    color: silver;
+    margin-bottom: 15px;
+    display: inline-block;
+    vertical-align: bottom;
+    border-color: black;
+    border-style: solid;
+    width: fit-content;
+    
+
+}
+
+.upper-container {
+	margin-top: 5vh;
+}
+
+.main-container {
+	justify-content: center;
+	text-align: center;
+}
+
+.answer-container {
+    text-align: center;
+    list-style: inside;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hidden {
+	visibility: hidden;
+}
+
+ol {
+    columns: 2;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+ol, ol li { margin-left: 0; padding-left: 0; }
+
+ol li {
+    cursor: pointer;
+	padding: 20px;
+    background-image: linear-gradient(135deg,#03045e,#023e8a, #0077b6, #0096c7);
+    border-radius: 15px;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: silver;
+    margin-bottom: 15px;
+    
+    border-color: black;
+    border-style: solid;
+}
+
+
+
+  
