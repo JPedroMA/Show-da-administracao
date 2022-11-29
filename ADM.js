@@ -1,6 +1,7 @@
-// Variable declarations
+//Declaração de variáveis
+
 const URL =
-	"https://raw.githubusercontent.com/aaronnech/Who-Wants-to-Be-a-Millionaire/master/questions.json";
+	"https://raw.githubusercontent.com/JPedroMA/Show-do-milhas/main/ADMPerguntas.json";
 const gameContainer = document.querySelector(".game-container");
 const startBtn = document.querySelector(".start");
 const questionContainer = document.querySelector(".question-container");
@@ -14,20 +15,19 @@ const nextQuestionContainer = document.querySelector(
 	".next-question-container"
 );
 const pointsContainer = document.querySelector(".points-container");
-// selecting audio files
+// escolhendo arquivos de audio
 const letsPlayAudio = document.getElementById("lets-play");
 const easyAudio = document.getElementById("easy");
 const wrongAnswerAudio = document.getElementById("wrong-answer");
 const correctAnswerAudio = document.getElementById("correct-answer");
 
-// let gameState = false;
 let gameOn = false;
 let timesToGuess = 1;
 let correctAnswer;
 let questionList;
 let listOfAnswers;
 let currentTime;
-// Variables for the randomQuestionGenerator();
+// variaveis para randomQuestionGenerator();
 let data;
 let currentQuestion = {};
 let randomGameNum = 0;
@@ -37,9 +37,10 @@ let timeoutId;
 let intervalId;
 let points = 0;
 
-// Functions
+// Funções
 const randomNumHelperFunc = num => Math.floor(Math.random() * num);
 const dataLoad = async () => {
+	//Linha onde a pergunta e respostas sao importados!
 	data = await fetch(URL).then(res => res.json());
 };
 const randomQuestionGenerator = () => {
@@ -59,7 +60,7 @@ const randomQuestionGenerator = () => {
 const fiftyFiftyGenerator = num => {
 	let randomFirst;
 	let randomSecond;
-	// Generate first random number
+	// Gerar o primero número aleatoriamente
 	randomFirst = randomNumHelperFunc(4);
 	while (randomFirst === num) {
 		randomFirst = randomNumHelperFunc(4);
@@ -69,15 +70,17 @@ const fiftyFiftyGenerator = num => {
 	while (randomSecond === randomFirst || randomSecond === num) {
 		randomSecond = randomNumHelperFunc(4);
 	}
-	// hide two wrong answers
+	// esconder 2 respostas erradas
 	document.querySelector(`[id='${randomFirst}']`).style.visibility = "hidden";
 	document.querySelector(`[id='${randomSecond}']`).style.visibility = "hidden";
 };
 const startTimerMusic = () => {
 	timer();
-	// start audio
-	letsPlayAudio.play();
-	letsPlayAudio.volume = 0.3;
+	// começar audio
+	if(points == 0){
+		letsPlayAudio.play();
+		letsPlayAudio.volume = 0.3;
+	}
 	timeoutId = setTimeout(() => {
 		easyAudio.play();
 		easyAudio.volume = 0.3;
@@ -101,7 +104,7 @@ const resetPoints = () => {
 };
 const gameOver = () => {
 	gameOn = false;
-	// stopping audio
+	// parar audio
 	stopTimerMusic();
 	wrongAnswerAudio.play();
 	wrongAnswerAudio.volume = 0.3;
@@ -132,7 +135,7 @@ const correctAnswerFunc = () => {
 		gameStatusContainer.classList.remove("hidden");
 		gameContainer.classList.add("hidden");
 		gameStatusContainer.textContent =
-			"CONGRATULATIONS! You've become a Millionaire!";
+			"Parabéns! Você se tornou o ADM do ano";
 		pointsContainer.textContent = `${points} / 12`;
 	}
 };
@@ -200,15 +203,15 @@ startBtn.addEventListener("click", () => {
 });
 nextQuestionBtn.addEventListener("click", () => nextQuestionFunc());
 secondGuessBtn.addEventListener("click", () => {
-	// change let timesToGuess to 2
+	// atribuir 2 chance de acerto
 	timesToGuess = 2;
-	// hide the x2 button
+	// esconder botao de 2 chance
 	secondGuessBtn.classList.add("hidden");
 });
 fiftyFiftyBtn.addEventListener("click", () => {
-	// Remove two wrong answers
+	// remover 2 respostas errada
 	fiftyFiftyGenerator(correctAnswer);
-	// hide the 50:50 button
+	// esconder botao de 50:50
 	fiftyFiftyBtn.classList.add("hidden");
 });
 answersContainer.addEventListener("click", e => {
