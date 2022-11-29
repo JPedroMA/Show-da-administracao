@@ -1,0 +1,774 @@
+{
+	"games" : [
+		{
+		    "questions" : [
+		        {
+		            "question" : "Oque é empreendedorismo?",
+		            "content" : [
+		                "É um modelo de banco de dados",
+		                "É o processo de construção de prédios",
+		                "É o processo de iniciativa de implementar novos negócios ou mudanças em empresas",
+		                "É uma empresa de construções civis"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "A administração é constituída por quais pilares?",
+		            "content" : [
+		                "Planejamento, organização, liderança e controle",
+		                "Planejamento, organograma, lampejo e consumo",
+		                "Pensamento, ornamentação, limpeza e controle",
+		                "Politica, organização, longevidade e cartazes"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Em qual ano o empreendedorismo foi fortemente impulsionado?",
+		            "content" : [
+		                "2012",
+		                "1718",
+		                "1970",
+		                "2002"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Qual o autor do livro Fundamentos de administração?",
+		            "content" : [
+		                "Kelly e Key",
+		                "Robert e Dominick",
+		                "Morgan Freeman",
+		                "Robbins e Decenzo"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "Oque compõem os níveis organizacionais?",
+		            "content" : [
+		                "Gestores e compositores",
+		                "Gerentes e operacionais",
+		                "Gestores e operacionais",
+		                "Gerentes e gestores"
+		            ],
+		            "correct" : 1
+		        },
+				{
+					"question": "Quais das empresas abaixo são consideradas 'e-orgs'?",
+				    "content": [
+				        "Mercado livre, americanas e bar do zé",
+				        "Ifood, uber e táxi",
+				        "Magalu, amazon e feirante",
+				        "Americanas, amazon e ponto frio"
+				    ],
+				    "correct": 3
+				},
+				{
+					"question": "Quais são os valores que caracterizam uma empresa sustentável?",
+				    "content": [
+				        "Social, ambiental e econômico",
+				        "Ambiental, reflorestador e socioeconômico",
+				        "Social, econômico e bioquímico",
+				        "Químico, ambiental e sustentável"
+				    ],
+				    "correct": 0
+				},
+				{
+					"question": "Qual a utilidade da ferramenta 'management science'?",
+				    "content": [
+				        "Auxiliar nos gastos e na alocação de recursos",
+				        "remover problemas e receber alocação de dados",
+				        "Resolver problemas técnicos do sistema empresarial",
+				        "Conectar os funcionários com os superiores"
+				    ],
+				    "correct": 2
+				},
+				{
+					"question": "Quais são as três características comuns das organizações?",
+				    "content": [
+				        "Valor social, crescimento e metas",
+				        "Metas, estrutura e pessoas",
+				        "Funcionários, crescimento e estrutura",
+				        "Eficácia, recursos e valor social"
+				    ],
+				    "correct": 1
+				},
+				{
+					"question": "Quais são as características de administradores de acordo com Stoner e Freeman?",
+				    "content": [
+				        "Sonhadores, persistentes e planejadores",
+				        "Líderes, organizadores e cordiais",
+				        "Planejadores, organizadores e líderes",
+				        "Organizadores, conceituais e disseminadores"
+				    ],
+				    "correct": 2
+				},
+				{
+					"question": "Quais são os desafios da administração de acordo com Stoner e Freeman?",
+				    "content": [
+				        "Necessidade de Visão, alcance e organização",
+				        "Necessidade de Etnias, Cultura e Historia",
+				        "Necessidade de Visão, ética e diversidade cultural",
+				        "Necessidade de Diversidade cultural e alcance e produtividade"
+				    ],
+				    "correct": 2
+				},
+				{
+					"question": "Quais desses são estilos de liderança efetivos?",
+				    "content": [
+				        "Participativo, consultivo e democrático",
+				        "Consultivo, Autoritário e toyotista",
+				        "Autocrático, Participativo e Laissez-faire",
+				        "Liberal, Democrático e Mecanista"
+				    ],
+				    "correct": 2
+				},
+				{
+					"question": "Quais pontos são considerados na liderança situacional de Hersey e Blanchard?",
+				    "content": [
+				        "Produtividade e Proatividade",
+				        "Relacionamento e produção",
+				        "Disposição e Afinidade",
+				        "Tarefa e Relacionamento"
+				    ],
+				    "correct": 3
+				},
+				{
+					"question": "Quais são as características de líderes carismáticos?",				   
+				    "content": [
+				        "Sensibilidade ambiental, visão articulada e comportamento padronizado",
+				        "Convicções sobre visão, inovadores e Produtivos",
+				        "Autoconfiança, visão e persuasão",
+				        "Agentes de mudanças e visão exacerbada e controle jurídico"
+				    ],
+				    "correct": 2
+				},
+				{
+					"question": "Qual dessas é a definição de liderança transformacional?",
+				    "content": [
+				        "É um estilo de gestão de equipes onde os líderes motivam, inspiram e incentivam suas equipes a inovar, focando no sucesso dos negócios. ",
+						"É um modelo de liderança que gira em torno da capacidade do líder de se adaptar a qualquer contexto e situação econômica enfrentada pelo segmento de atuação da sua empresa",
+						"Consiste em guiar a equipe de forma clara em direção a uma visão de futuro de longo prazo que cumpre objetivos estratégicos da empresa",
+						"É o tipo de liderança que inspira, transmite confiança e leva os outros à ação"
+				    ],
+				    "correct": 0
+				}
+		    ]
+		},
+		{
+		    "questions" : [
+		        {
+		            "question" : "Qual dessas é a definição de liderança carismática?",
+		            "content" : [
+		                "É um estilo de gestão de equipes onde os líderes motivam, inspiram e incentivam suas equipes a inovar, focando no sucesso dos negócios. ",
+						"É um modelo de liderança que gira em torno da capacidade do líder de se adaptar a qualquer contexto e situação econômica enfrentada pelo segmento de atuação da sua empresa",
+						"Consiste em guiar a equipe de forma clara em direção a uma visão de futuro de longo prazo que cumpre objetivos estratégicos da empresa",
+						"É o tipo de liderança que inspira, transmite confiança e leva os outros à ação"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "Qual dessas é a definição de liderança visionária?",
+		            "content" : [
+		                "É um estilo de gestão de equipes onde os líderes motivam, inspiram e incentivam suas equipes a inovar, focando no sucesso dos negócios. ",
+						"É um modelo de liderança que gira em torno da capacidade do líder de se adaptar a qualquer contexto e situação econômica enfrentada pelo segmento de atuação da sua empresa",
+						"Consiste em guiar a equipe de forma clara em direção a uma visão de futuro de longo prazo que cumpre objetivos estratégicos da empresa",
+						"É o tipo de liderança que inspira, transmite confiança e leva os outros à ação"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Qual dessas é a definição de liderança situacional?",
+		            "content" : [
+		                "É um estilo de gestão de equipes onde os líderes motivam, inspiram e incentivam suas equipes a inovar, focando no sucesso dos negócios. ",
+						"É um modelo de liderança que gira em torno da capacidade do líder de se adaptar a qualquer contexto e situação econômica enfrentada pelo segmento de atuação da sua empresa",
+						"Consiste em guiar a equipe de forma clara em direção a uma visão de futuro de longo prazo que cumpre objetivos estratégicos da empresa",
+						"É o tipo de liderança que inspira, transmite confiança e leva os outros à ação"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : " Qual desses é o nível organizacional mais baixo na estrutura de uma empresa?",
+					"content" : [
+						"Gerentes de Primeira Linha",
+						"Operacionais",
+						"CEO, CFO, CMO e CIO",
+						"Stakeholders"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : " O que significa a sigla GRI? (O GRI é um padrão mundial de adesão voluntária no Brasil para publicação de relatório de sustentabilidade)",
+					"content" : [
+						"Gerentes Rurais de Ituiutaba",
+						"Global Reporting Initiative",
+						"Gerência Ruim Intermitente",
+						"Global Rivers Inundation"
+		            ],
+		            "correct" : 1
+		        },
+				{
+					"question": "Das alternativas abaixo, qual melhor define um Stakeholder?",
+				    "content": [
+				        "São todos os grupos de pessoas ou organizações que podem ter algum tipo de interesse pelas ações de uma determinada organização",
+						"Todos os gerentes de uma organização, sejam eles de primeira linha, médio nível ou alto nível",
+						"Todas as pessoas que tem e que já tiveram qualquer vínculo empregatício com uma determinada organização",
+						"Qualquer pessoa que detém pelo menos 1/100 das ações de uma organização"
+				    ],
+				    "correct": 0
+				},
+				{
+					"question": "Quais destes são refêrencias no tema 'teoria geral da administração'?",
+				    "content": [
+				        "Fukuyama e Mogami",
+						"João Pedro e Leonando",
+						"Marcus e Jered",
+						"Robbins e Decenzo"
+				    ],
+				    "correct": 3
+				},
+				{
+					"question": "Qual destes é o setor responsável pela gestão de caixa numa empresa?",
+				    "content": [
+				        "RH",
+						"Pesquisa e Desenvolvimento",
+						"Produção",
+						"Financeiro"
+				    ],
+				    "correct": 3
+				},
+				{
+					"question": "Quais são as cinco forças de Michael Porter?",
+				    "content": [
+				        "Rivalidade entre os concorrentes, entrada de novos concorrentes, produtos substitutos, poder de negociação dos clientes e poder de negociação dos fornecedores",
+						"Rivalidade entre os produtos, entrada de poder de negociação, fornecimento de concorrentes, produtos insubstituíveis, substituição de concorrentes",
+						"Supino, cadeira extensora, leg press, agachamento e tríceps testa",
+						"GRI, CEO, liderança carismática, stakeholders e operacionais"
+				    ],
+				    "correct": 0
+				},
+				{
+				    "question" : " Qual a definição de controle?",
+					"content" : [
+						"Função da administração envolvendo o processo de levar os funcionários aos objetivos. ",
+						"Função administrativa que envolve o processo de organização das atividades. ",
+						"Função administrativa que envolve o processo de monitoramento das atividades. ",
+						"Função da administração envolvendo o processo de planejamento das atividades. "
+					],
+					"correct" : 2
+				},
+				{
+					"question": "Uma ONG (Organização não governamental) faz parte de que setor na tipologia das organizações?",
+				    "content": [
+				        "Primeiro Setor",
+						"Segundo Setor",
+						"Terceiro Setor",
+						"Setor governamental"
+				    ],
+				    "correct": 2
+				},
+				{
+					"question": "O que se espera de um bom Administrador?",
+				    "content": [
+				        "Que guie a empresa para que tenha um direcionamento estratégico que a leve a patamares maiores, para que os recursos sejam bem alocados e cada área tenha a quem se direcionar ",
+						"Que consiga controlar de perto todos os setores de uma organização, sem necessidade de gerentes abaixo dele",
+						"Que tome decisões que outros não conseguiriam, mesmo que antiéticas, para o bem maior da empresa",
+						"Que faça a organização ter lucros sem se importar com o ambiente e condições de trabalho"
+				    ],
+					"correct": 0
+				},
+				{
+					"question": "Qual destes fatores não deve afetar o comportamento do controle de uma organização?",
+				    "content": [
+				        "Tamanho da organização ",
+						"Grau de descentralização",
+						"Diferenças culturais",
+						"Preferências pessoais dos gerentes"
+				    ],
+				    "correct": 3
+				},
+				{
+					"question": "Qual a definição de planejamento segundo a Administração?",
+				    "content": [
+				        "Estabelecer objetivos e linhas de ação para alcançar tais objetivos",
+				        "Cumprir as metas estabelecidas",
+				        "Organizar uma viagem para o fim de ano",
+				        "Organizar planilhas detalhando as metas desejadas"
+				    ],
+				    "correct": 0
+				},
+				{
+					"question": "Quais são os dois tipos de planos mais utilizados pelas organizações?",
+				    "content": [
+				        "Plano A e plano B",
+				        "Plano estratégico e plano operacional",
+				        "Plano de saúde e plano de fundo",
+				        "Plano de aula e plano de governo"
+				    ],
+				    "correct": 1
+				}
+		    ]
+		},
+		{
+		    "questions" : [
+		        {
+		            "question" : "Qual das afirmativas abaixo não é um passo para a criação de um planejamento?",
+		            "content" : [
+		                "Formulação dos objetivos",
+		                "Análise dos Recursos",
+		                "Identificação de oportunidades e Ameaças",
+		                "Agir por impulso"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "Quais são os tipos de poderes da organização?",
+		            "content" : [
+		                "social, recompensa, legítimo, econômico, referência",
+		                "coercivo, recompensa, legítimo, econômico, militar",
+		                "coercivo, recompensa, legítimo, especialização, referência",
+		                "social, político, social, especialização, referência"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "O que é o poder coercivo?",
+		            "content" : [
+		                "Baseado no medo",
+		                "Baseado na habilidade de distribuir algo que os demais valorizam",
+		                "Baseado na posição de outra pessoa na hierarquia formal",
+		                "Baseado na identificação com alguém que tem recursos desejáveis ou características pessoais"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "O que é o poder legítimo?",
+		            "content" : [
+		                "Baseado no medo",
+		                "Baseado na habilidade de distribuir algo que os demais valorizam",
+		                "Baseado na posição de outra pessoa na hierarquia formal",
+		                "Baseado na identificação com alguém que tem recursos desejáveis ou características pessoais"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "O que é o poder de recompensa?",
+		            "content" : [
+		                "Baseado no medo.",
+		                "Baseado na habilidade de distribuir algo que os demais valorizam",
+		                "Baseado na posição de outra pessoa na hierarquia formal",
+		                "Baseado na perícia, talento ou conhecimento especial de uma pessoa"
+		            ],
+		            "correct" : 1
+		        },
+				{
+					"question": "O que é o poder referência?",
+				    "content": [
+				        "Baseado no medo",
+				        "Baseado na habilidade de distribuir algo que os demais valorizam",
+				        "Baseado na perícia, talento ou conhecimento especial de uma pessoa",
+				        "Baseado na identificação com alguém que tem recursos desejáveis ou características pessoais"
+				    ],
+				    "correct": 3
+				},
+				{
+					"question": "O que é o poder especialização?",
+				    "content": [
+				        "Baseado na perícia, talento ou conhecimento especial de uma pessoa",
+				        "Baseado na habilidade de distribuir algo que os demais valorizam",
+				        "Baseado na posição de outra pessoa na hierarquia formal",
+				        "Baseado na identificação com alguém que tem recursos desejáveis ou características pessoais"
+				    ],
+				    "correct": 0
+				},
+				{
+					"question": "O que é departamentalizar nas atividades de organização?",
+				    "content": [
+				        "Agrupar especialistas em departamentos com a direção de um gerente",
+				        "Agrupar tudo em um único setor com um gerente para todos",
+				        "Agrupar especialistas em departamentos sem nenhuma gerência",
+				        "Agrupar especialistas em departamentos sem nenhuma gerência"
+				    ],
+				    "correct": 0
+				},
+				{
+					"question": "Quais são os tipos de departamentalização?",
+				    "content": [
+				        "Funcional, produto, cliente, geográfica, processo",
+				        "Funcional, produção, cliente, climática, processo",
+				        "Funcional, produto, gerente, climática, processo",
+				        "Utilitário, produto, cliente, climática, processo"
+				    ],
+				    "correct": 0
+				},
+				{
+					"question": "Qual das características abaixo não faz parte da organização orgânica?",
+				    "content": [
+				        "Tarefas Adaptáveis",
+				        "Poucas Regras",
+				        "Comunicação Informas",
+				        "Muitas Regras"
+				    ],
+					"correct": 3
+				},
+				{
+					"question": "Qual das características abaixo não faz parte da organização mecanística?",
+				    "content": [
+				        "Relacionamentos hierárquicos rígidos",
+				        "Muitas Regras",
+				        "Tarefas Fixas",
+				        "Comunicação Informal"
+				    ],
+				    "correct": 3
+				},
+				{
+				    "question" : " Qual tipo de controle enfatiza a autoridade organizacional?",
+					"content" : [
+						"Mercado",
+						"Burocrática",
+						"Oportunidade",
+						"Clã"
+					],
+					"correct" : 1
+				},
+				{
+				    "question" : " Qual a característica do tipo de controle Clã?",
+					"content" : [
+						"Conta com mecanismos administrativos e hierárquicos. ",
+						"Enfatiza a autoridade organizacional. ",
+						"Regula o comportamento dos funcionários por valores compartilhados. ",
+						"Os funcionários podem ser direcionados e motivados. "
+					],
+					"correct" : 2
+				},
+				{
+				    "question" : " Quais as qualidades que os sistemas eficazes normalmente têm em comum?",
+					"content" : [
+						"Precisão, oportunidade, economia, flexibilidade, compreensão, critérios razoáveis, colocação estratégica, ênfase na exceção, critérios singulares ação corretiva. ",
+						"Precisão, oportunidade, economia, flexibilidade, compreensão, critérios irrazoáveis, colocação estratégica, ênfase na exceção, critérios múltiplos e ação corretiva. ",
+						"Precisão, oportunidade, economia, flexibilidade, compreensão, critérios razoáveis, colocação estratégica, ênfase na exceção, critérios múltiplos e ação corporativa. ",
+						"Precisão, oportunidade, economia, flexibilidade, compreensão, critérios razoáveis, colocação estratégica, ênfase na exceção, critérios múltiplos e ação corretiva. "
+					],
+					"correct" : 3
+				},
+				{
+				    "question" : " Qual o dilema ético no monitoramento dos funcionários?",
+					"content" : [
+						"Onde as regras e controle de um empregador devem terminar? ",
+						"Quanto controle uma empresa deve ter sobre a vida privada de seus funcionários? ",
+						"O seu chefe tem o direito de ditar o que você faz no tempo livre? ",
+						"Seu chefe tem direito de te proibir de fazer um esporte perigoso? "
+					],
+					"correct" : 1
+				}
+		    ]
+		},
+		{
+		    "questions" : [
+		        {
+		            "question" : " Quais as categorias de valorização de negócios?",
+					"content" : [
+						"Valorização de ativos, perdas e fluxo de caixa. ",
+						"Valorização de ativos, ganhos e fluxo de caixas. ",
+						"Valorização de ativos, ganhos e fluxo de caixa. ",
+						"Valorização de ativos, passivos e fluxo de caixas. "
+					],
+					"correct" : 2
+		        },
+		        {
+		            "question" : " Qual estratégia Alan Scholz usava para controlar o crescimento da Green Gear Cycling?",
+					"content" : [
+						"Rotação de capital assim como a rotação da roda de uma bicicleta. ",
+						"Objetivo sempre em vista. ",
+						"Crescimento assim como uma arvore. ",
+						"Cliente para a vida toda. "
+					],
+					"correct" : 3
+		        },
+		        {
+		            "question" : " Quais os tipos de controle?",
+					"content" : [
+						"Mercado, burocrático e clã. ",
+						"Mercantil, burocrata e clã. ",
+						"Mercado, burocrata e clã. ",
+						"Mercantil, burocracia e clã. "
+					],
+					"correct" : 0
+		        },
+		        {
+		            "question" : " Qual o controle comumente usado?",
+					"content" : [
+						"Simultâneo ",
+						"Feedback ",
+						"Preventivo ",
+						"Precisão "
+					],
+					"correct" : 1
+		        },
+		        {
+		            "question" : " Quais as etapas do processo de controle?",
+					"content" : [
+						"Medir o desempenho real, comparar o desempenho real com o padrão e tomar medidas administrativas para corrigir os desvios ou padrões inadequados. ",
+						"Medir o desempenho desejado, comprar o desempenho real com e vender medidas administrativas para corrigir os desvios ou padrões inadequados.  ",
+						"Medir o desempenho real, comparar o desempenho desejado com o padrão e tomar medidas administrativas para corrigir os desvios ou padrões inadequados. ",
+						"Medir o desempenho desejado, comparar o desempenho real com o padrão e tomar medidas administrativas para ignorar os desvios ou padrões inadequados. "
+					],
+					"correct" : 0
+		        },
+				{
+				    "question" : " Quais são as seis particularidades que diferenciam os líderes dos não líderes?",
+					"content" : [
+						"Impulso, desejo, liderar, honestidade, integridade, autoconfiança, inteligência, conhecimento relacionados ao cargo. ",
+						"Impulso, desejo de liderar, honestidade e integridade, autoconfiança, inteligência, conhecimento relacionados ao cargo. ",
+						"Impulso, desejo de liderar, honestidade e integridade, confiança, inteligência, conhecimento relacionamento ao cargo. ",
+						"Impulso, desejo de liderar, desonestidade e integridade, autoconfiança, inteligência, conhecimento relacionados ao cargo. "
+		],
+		"correct" : 1
+				},
+				{
+				    "question" : " Qual a sigla do instrumento que Fiedler desenvolveu?",
+					"content" : [
+						"QCTMP",
+						"QTMP",
+						"CMP",
+						"CTMP"
+					],
+					"correct" : 3
+				},
+				{
+				    "question" : " Quem desenvolveu o modelo líder-participação?",
+					"content" : [
+						"Victor Yetton e Philip Vroom  ",
+						"Victor Vroom e Philip Yetton ",
+						"Yetton Yetton e Vroom Vroom ",
+						"Victor Vetton e Philip Vrom "
+					],
+					"correct" : 1
+				},
+				{
+				    "question" : " Qual modelo de liderança Paul Hersey e Kenneth Blanchard desenvolveram?",
+					"content" : [
+						"Contingência",
+						"Carismática",
+						"Situacional",
+						"Visionária"
+					],
+					"correct" : 2
+				},
+				{
+				    "question" : " De acordo com a teoria caminho-meta como deve ser o comportamento do líder?",
+					"content" : [
+						"Diretivo, apoiador, participativo, orientação para participação.",
+						"Diretivo, apoiador, participativo, orientação para a realização. ",
+						"Diretivo, apoiador, retaliativo, orientação para a realização. ",
+						"Diretivo, aproximado, participativo, orientação para a realização. "
+					],
+					"correct" : 1
+				},
+				{
+				    "question" : " Quais os três tipos de confiança?",
+					"content" : [
+						"Consideração, idealização e repressão. ",
+						"Consideração, identificação e repressão. ",
+						"Conhecimento, idealização e repressão. ",
+						"Conhecimento, identificação e repressão. "
+					],
+					"correct" : 3
+				},
+				{
+				    "question" : " Qual o modelo de liderança usado por Mary Kay Ash?",
+					"content" : [
+						"Carismática",
+						"Visionaria",
+						"Contingência",
+						"Situacional"
+					],
+					"correct" : 1
+				},
+				{
+					"question" : " Qual a frase usada sobre gerentes versus líderes?",
+					"content" : [
+						"Todos os líderes são gerentes, e nem todos os gerentes são líderes",
+						"Todos os líderes são gerentes, e todos os gerentes são líderes",
+						"Nem todos os líderes são gerentes, e nem todos os gerentes são líderes",
+						"Nem todos os líderes são gerentes, e todos os gerentes são líderes"
+					],
+					"correct" : 2
+				},
+				{
+					"question" : " Quais particularidades caracterizam líderes como Meg Whitman, presidente e diretora executiva do eBay?",
+					"content" : [
+						"Impulso, desejo de liderar, honestidade e integridade, autoconfiança, inteligência e conhecimento. ",
+						"Impulso, desejo de liderar, honestidade e lealdade, autoconfiança, inteligência e conhecimentos relacionados ao cargo. ",
+						"Impulso, desejo de liderar, honestidade e integridade, autoconfiança, inteligência e conhecimentos relacionados ao cargo. ",
+						"Impulso, desejo de liderar, honestidade e integridade, confiança, inteligência e conhecimentos relacionados ao cargo. "
+					],
+					"correct" : 2
+				},
+				{
+					"question" : " O que é um líder laissez-faire?",
+					"content" : [
+						"É aquele que o líder tende a centralizar a autoridade. ",
+						"Geralmente concede aos seus funcionários total liberdade para que tomem as decisões e completem seus trabalhos. ",
+						"Tende a envolver os funcionários na tomada de decisões, delega autoridade, encoraja a participação em decidir ",
+						"Que busca opiniões e ouve as preocupações e assuntos dos funcionários, mas toma a decisão final ele mesmo. "
+					],
+					"correct" : 1
+				}
+		    ]
+		},
+		{
+		    "questions" : [
+		        {
+					"question" : " Quais são os seis elementos da estrutura organizacional?",
+					"content" : [
+						"Amplitude de controle, Centralização x descentralização, Departamentalização, Autoridade e responsabilidade, Especialização do trabalho, Cadeia de comando.",
+						"Amplitude de controle, Centralização, descentralização, Departamentalização, Autoridade e responsabilidade, Especialização do trabalho, Cadeia de comando. ",
+						"Amplitude de controle, Centralização x descentralização, Departamentalização funcional, Autoridade e responsabilidade, Especialização do trabalho, Cadeia de comando. ",
+						"Amplitude de controle, Centralização, descentralização, Departamentalização, Autoridade e responsabilidade, Especialização do trabalho, Cadeia de comando. "
+					],
+					"correct" : 0
+		        },
+		        {
+					"question" : " Uma simples definição de departamentalização por processo é?",
+					"content" : [
+						"Agrupa os funcionários com base no trabalho desempenhado.",
+						"Agrupa os funcionários com base nos locais servidos.",
+						"Agrupa os funcionários com base no trabalho ou fluxo de clientes.",
+						"Agrupa os funcionários com base nos problemas e necessidades dos clientes."
+					],
+					"correct" : 2
+		        },
+		        {
+					"question" : " Existem alguns tipos de poderes, como, baseado no medo e baseado na perícia. Eles respectivamente são?",
+					"content" : [
+						"Poder coercivo e Poder legítimo.",
+						"Poder coercivo e Poder de especialização.",
+						"Poder referência e Poder de recompensa.",
+						"Poder legítimo e Poder de referência."
+					],
+					"correct" : 1
+		        },
+		        {
+					"question" : " Das características de Organizações Mecanística abaixo, qual alternativa está errada?",
+					"content" : [
+						"Muitas regras, autoridade de decisão centralizada e estruturas mais altas.",
+						"Canais de comunicação formalizados, tarefas fixas e muitas regras.",
+						"Tarefas fixas, estruturas mais altas e relacionamentos hierárquicos rígidos.",
+						"Autoridade de decisão centralizada, muitas regras e Colaboração tanto vertical como horizontal."
+					],
+					"correct" : 3
+		        },
+				{
+					"question" : " Qual das características não se trata da cultura organizacional?",
+					"content" : [
+						"Ênfase no individualismo.",
+						"Tolerância a riscos.",
+						"Tolerância a conflito.",
+						"Critério de recompensa."
+					],
+					"correct" : 1
+				},
+				{
+					"question" : " Está certo dizer sobre estrutura simples?",
+					"content" : [
+						"Ela é uma estrutura elaborada.",
+						"Alta especialização do trabalho.",
+						"Poucas regras.",
+						"Autoridade de tomada de decisão decentralizada."
+					],
+					"correct" : 2
+				},
+				{
+					"question" : " Está certo dizer sobre estrutura baseada em equipes?",
+					"content" : [
+						"Autoridade de tomada de decisão centralizada.",
+						"Estrutura pouca elaborada.",
+						"Baixa especialização do trabalho.",
+						"Nenhuma das alternativas."
+					],
+					"correct" : 3
+				},
+				{
+					"question" : "A estrutura organizacional é representada pelo organograma, no qual se encontram diversas informações, como a divisão do trabalho, a  cadeia de comando e a comunicação organizacional. O organograma no qual se encontram abaixo da Presidência as unidades de trabalho especializadas, como Direção de Marketing, Direção de Finanças, Direção da Produção e Operações, e Direção de Recursos Humanos, caracteriza uma organização:",
+					"content" : [
+						"Por produto.",
+						"Funcional.",
+						"Por clientes.",
+						"Departamental."
+					],
+					"correct" : 1
+				},
+				{
+					"question" : "Delegação de tarefas é um processo no qual o líder atribui a colaboradores devidamente preparados autonomia para tomar certas decisões, de modo que nem tudo precise passar por ele. O objetivo desta prática, além de estimular o maior comprometimento dos colaboradores, é ganhar maior agilidade, porque nem tudo precisa passar pela aprovação do gestor principal. Este processo pode ser chamado também de:",
+					"content" : [
+						"Centralização.",
+						"Autocracia.",
+						"Descentralização. ",
+						"Concentração na tomada de decisão."
+					],
+					"correct" : 2
+				},
+				{
+				    "question" : " Qual a alternativa que apresenta uma vantagem da departamentalização por produtos ou serviços?",
+					"content" : [
+						"Facilita a coordenação interdepartamental, uma vez que a preocupação básica é o produto; as diversas atividades departamentais tornam-se secundárias e precisam sujeitar-se ao objetivo principal, que é o produto.",
+						"Dispersa os departamentos em subgrupos orientados para diferentes produtos, provocando duplicação de recursos e de órgãos.",
+						"Permite agrupar vários especialistas sob uma chefia comum quando sua atividade é especializada.",
+						"Permite fixar a responsabilidade de lucro e desempenho, com ênfase no comportamento regional ou local."
+					],
+					"correct" : 0
+				},
+		        {
+		            "question" : "Acerca da estratégia necessária em um planejamento estratégico, é correto afirmar que eficácia é:",
+					"content" : [
+						"A medida de desempenha do processo na conversão das entradas em saídas.",
+						"Fazer o trabalho priorizando somente o meio interno.",
+						"Fazer as coisas da maneira correta com o bom uso de recurso, com foco interno.",
+						"A medida do grau em que as saídas satisfazem os requisitos."
+					],
+					"correct" : 3
+		        },
+				{
+					"question" : "Em um planejamento estratégico a longo prazo, é fundamental que a empresa avalie a lucratividade média do setor em que atua, que o ambiente lhe proporciona. O quadro conceitual correto com o qual a empresa poderá fazer tal avaliação denomina-se:",
+					"content" : [
+						"Cinco Forças.",
+						"Análise SWOT.",
+						"Análise de Recursos.",
+						"Cadeia de Valor."
+					],
+					"correct" : 0
+				},
+				{
+				    "question" : "O Planejamento Estratégico é uma ferramenta gerencial que apresenta várias utilidades para os gestores. Marque a alternativa que não tem relação direta com as utilidades gerenciais do planejamento estratégico:",
+					"content" : [
+						"Indicar ações a serem executadas para atingir os objetivos e estratégias traçados para a organização.",
+						"Fazer análise de lançamentos contábeis do exercício anterior.",
+						"Definir metas a serem atingidas de modo a alcançar os resultados objetivados.",
+						"Atribuir responsabilidades gerenciais sobre a realização de ações e o atingimento de metas. "
+					],
+					"correct" : 1
+				},
+				{
+				    "question" : "O planejamento é essencial para alcançar o sucesso, porque determina aonde a empresa quer chegar e como ela fará para conseguir o seu objetivo. Quando as decisões tomadas são de responsabilidade da alta administração da empresa, estamos diante do planejamento:",
+					"content" : [
+						"Gerencial.",
+						"Estratégico.",
+						"Operacional.",
+						"Tático."
+					],
+					"correct" : 1
+				},
+				{
+					"question" : "É correto afirmar que o planejamento operacional:",
+					"content" : [
+						"Envolve a criação de objetivos amplos e de longo prazo.",
+						"Cria padrões, métodos, políticas e procedimentos específicos que são adotados em áreas funcionais da organização.",
+						"Constitui um processo de decisão para cumprir objetivos organizacionais.",
+						"Representa a finalidade e a razão de existência de uma organização."
+					],
+					"correct" : 1
+				}
+		    ]
+		}
+	]
+}
