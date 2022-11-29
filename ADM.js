@@ -116,6 +116,7 @@ const gameOver = () => {
 			: `Fim de jogo. Você fez ${points} pontos.`;
 	startBtn.textContent = "Começar";
 	pointsContainer.classList.add("hidden");
+	window.location.reload();
 };
 const correctAnswerFunc = () => {
 	points += 1;
